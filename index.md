@@ -13,7 +13,7 @@ The full version of my CV (PDF) is available [here](files/CV_KatsunariYamashita.
 Special Research Student, Department of Systems Pharmacology, Graduate School of Medicine  
 
 **The University of Osaka, Japan**  
-Ph.D. student (3rd year), Department of Pathology and Pathophysiology, Graduate School of Medicine  
+Ph.D. student (3rd year), Department of Pathology, Graduate School of Medicine  
 Department of Orthopaedic Surgery, Graduate School of Medicine  
 
 ## Contact & links  
