@@ -14,8 +14,9 @@ Special Research Student, Department of Systems Pharmacology, Graduate School of
 
 **The University of Osaka, Japan**  
 Ph.D. student (3rd year), Department of Pathology and Pathophysiology, Graduate School of Medicine  
-
 Department of Orthopaedic Surgery, Graduate School of Medicine  
+
+## Contact & links  
 
 - Email: kyamashi@m.u-tokyo.ac.jp  
 - [Google Scholar](https://scholar.google.com/citations?user=ZE37jSIAAAAJ)  
