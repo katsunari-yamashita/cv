@@ -3,7 +3,7 @@ layout: default
 title: Katsunari Yamashita
 ---
 
-This is Katsunari Yamashita’s online CV.  
+Welcome to my online CV.  
 The full version of my CV (PDF) is available [here](files/CV_KatsunariYamashita.pdf).  
 <!-- 日本語のページは [こちら](Japanese.html)。 -->
 
