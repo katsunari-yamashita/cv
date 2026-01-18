@@ -18,7 +18,7 @@ Orthopaedic Surgeon, Department of Orthopaedic Surgery, Graduate School of Medic
 
 ## Contact & links  
 
-- Email: kyamashi@m.u-tokyo.ac.jp  
+- Email: [kyamashi@m.u-tokyo.ac.jp](mailto:kyamashi@m.u-tokyo.ac.jp)  
 - [Google Scholar](https://scholar.google.com/citations?user=ZE37jSIAAAAJ)  
 - [ORCID](https://orcid.org/0009-0001-2502-5816)
 
